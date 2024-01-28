@@ -1,5 +1,6 @@
 ### Be a Motivator ✨
 
+![HITS]([![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongminj&count_bg=%2387C1D5&title_bg=%230115BF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Here are some ideas to get you started:
 
