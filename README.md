@@ -7,14 +7,12 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mjm6k)](https://solved.ac/mjm6k/)
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python3, JS, css, html, and ideas
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: mjm6k@naver.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 모빌리티, 금융 IT 산업, AL/ML과 데이터 분석에 관심있어요
+- 🌱 Python3, JS, css, html, SQL을 공부하고 있어요
+- 👯 똑똑한 1반 사람들과 함께 공부를 하며 성장하고 있어요
+- 📫 mjm6k@naver.com
+
+- 😊 1승까지 간다
 
