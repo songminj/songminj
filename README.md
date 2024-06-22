@@ -10,8 +10,7 @@
 
 
 - 🔭 모빌리티, 금융 IT 산업, AL/ML과 데이터 분석에 관심있어요
-- 🌱 Python3, JS, css, html, SQL을 공부하고 있어요
+- 🌱 Python3, C++, JS, css, html, SQL을 공부하고 있어요
 - 📫 mjm6k@naver.com
 
-- 😊 
 
